@@ -1,4 +1,4 @@
-name: "Update Changelog"
+name: "Update x2 Changelog"
 
 on:
   release:
